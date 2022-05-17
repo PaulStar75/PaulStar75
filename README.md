@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PaulStar75
+- 👋 Hi, I’m @aLtErEgo_pau7
 - 👀 I’m interested in learning to build website
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on ...
